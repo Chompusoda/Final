@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AutoPlay>true</AutoPlay>
+            <DescSliding>true</DescSliding>
+            <GalleryMultipleSuffix>1</GalleryMultipleSuffix>
+            <GalleryName>index</GalleryName>
+            <GalleryOptionID>1</GalleryOptionID>
+            <HoverStart>false</HoverStart>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEngine>jquery</ImageEngine>
+            <ImageHeight>0</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink>true</ImageShrink>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>27. Neoteric</ImageTemplate>
+            <ImageTemplateName>Neoteric</ImageTemplateName>
+            <ImageWidth>0</ImageWidth>
+            <OverlayColor>#333333</OverlayColor>
+            <PublishFileName>C:/Users/user/Documents/VisualLightBox/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/user/Documents/VisualLightBox</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelPaths>false</RelPaths>
+            <ResizeSpeed>7</ResizeSpeed>
+            <RightClick>false</RightClick>
+            <SlideShow>true</SlideShow>
+            <SlideShowDelay>4</SlideShowDelay>
+            <ThumbColumns>0</ThumbColumns>
+            <ThumbFitImage>true</ThumbFitImage>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>174</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbTemplate>Overlay_Long</ThumbTemplate>
+            <ThumbTemplateName>Overlay Long</ThumbTemplateName>
+            <ThumbWidth>174</ThumbWidth>
+        </Settings>
+        <Images>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/allround/allround1.jpg</url>
+                <title>ALLROUND CLASSIC TABLE TENNIS BLADE</title>
+                <filesize>16054</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/allround/allround2.jpg</url>
+                <title>ALLROUND CLASSIC WRB TABLE TENNIS BLADE</title>
+                <filesize>18088</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/allround/allround3.jpg</url>
+                <title>ALLROUND CR WRB TABLE TENNIS BLADE</title>
+                <filesize>22022</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/allround/allround4.jpg</url>
+                <title>ALLROUND EVOLUTION TABLE TENNIS BLADE</title>
+                <filesize>16819</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/allround/allround5.jpg</url>
+                <title>ALLROUND WOOD NCT TABLE TENNIS BLADE</title>
+                <filesize>17868</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/allround+/allround+1.jpg</url>
+                <title>ALLROUND CLASSIC CARBON TABLE TENNIS BLADE</title>
+                <filesize>17499</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/allround+/allround+2.jpg</url>
+                <title>ENERGY WOOD WRB TABLE TENNIS BLADE</title>
+                <filesize>17979</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/allround+/allround+3.jpg</url>
+                <title>NOSTALGIC ALLROUND TABLE TENNIS BLADE</title>
+                <filesize>24783</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/allround+/allround+4.jpg</url>
+                <title>NOSTALGIC OFFENSIVE TABLE TENNIS BLADE</title>
+                <filesize>24882</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/allround+/allround+5.jpg</url>
+                <title>OFFENSIVE CLASSIC TABLE TENNIS BLADE</title>
+                <filesize>19595</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/offensive/offensive.jpg</url>
+                <title>ARCTIC WOOD TABLE TENNIS BLADE</title>
+                <filesize>13230</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/offensive/offensive2.jpg</url>
+                <title>CARBO 7.6 WRB TABLE TENNIS BLADE</title>
+                <filesize>19998</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/offensive/offensive3.jpg</url>
+                <title>CLIPPER CC TABLE TENNIS BLADE</title>
+                <filesize>19108</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/offensive/offensive4.jpg</url>
+                <title>CLIPPER CR TABLE TENNIS BLADE</title>
+                <filesize>19028</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/offensive/offensive5.jpg</url>
+                <title>CLIPPER CR WRB TABLE TENNIS BLADE</title>
+                <filesize>18551</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/offensive/offensive6.jpg</url>
+                <title>CLIPPER WOOD TABLE TENNIS BLADE</title>
+                <filesize>17509</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/offensive-/offensive-1.jpg</url>
+                <title>CELERO WOOD TABLE TENNIS BLADE</title>
+                <filesize>16337</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/offensive-/offensive-2.jpg</url>
+                <title>OFFENSIVE CLASSIC CARBON TABLE TENNIS BLADE</title>
+                <filesize>16848</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/offensive-/offensive-3.jpg</url>
+                <title>OFFENSIVE WOOD NCT TABLE TENNIS BLADE</title>
+                <filesize>17340</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/offensive-/offensive-4.jpg</url>
+                <title>OPTIMUM PLUS TABLE TENNIS BLADE</title>
+                <filesize>17448</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/offensive+/offensive+1.jpg</url>
+                <title>CARBONADO 145 TABLE TENNIS BLADE</title>
+                <filesize>19153</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/offensive+/offensive+2.jpg</url>
+                <title>CARBONADO 190 TABLE TENNIS BLADE</title>
+                <filesize>17791</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/offensive+/offensive+3.jpg</url>
+                <title>CARBONADO 245 TABLE TENNIS BLADE</title>
+                <filesize>19632</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Blades/offensive+/offensive+4.jpg</url>
+                <title>CARBONADO 290 TABLE TENNIS BLADE</title>
+                <filesize>19305</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Rubbers/AIROC/airoc1.jpg</url>
+                <title>AIROC ASTRO M TABLE TENNIS RUBBER</title>
+                <filesize>38220</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Rubbers/AIROC/airoc2.jpg</url>
+                <title>AIROC M TABLE TENNIS RUBBER</title>
+                <filesize>29044</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Rubbers/CALIBRA/calibra1.jpg</url>
+                <title>CALIBRA LT PLUS TABLE TENNIS RUBBER</title>
+                <filesize>49505</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Rubbers/CALIBRA/calibra2.jpg</url>
+                <title>CALIBRA LT SOUND TABLE TENNIS RUBBER</title>
+                <filesize>47546</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Rubbers/CALIBRA/calibra3.jpg</url>
+                <title>CALIBRA LT SPIN TABLE TENNIS RUBBER</title>
+                <filesize>50044</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Rubbers/CALIBRA/calibra4.jpg</url>
+                <title>CALIBRA LT TABLE TENNIS RUBBER</title>
+                <filesize>49647</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Rubbers/CALIBRA/calibra5.jpg</url>
+                <title>CALIBRA TOUR H TABLE TENNIS RUBBER</title>
+                <filesize>32647</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Rubbers/GENESIS/genesis1.jpg</url>
+                <title>GENESIS M TABLE TENNIS RUBBER</title>
+                <filesize>34831</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Rubbers/GENESIS/genesis2.jpg</url>
+                <title>GENESIS S TABLE TENNIS RUBBER</title>
+                <filesize>36517</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Rubbers/MANTRA/mantra1.jpg</url>
+                <title>MANTRA H TABLE TENNIS RUBBER</title>
+                <filesize>49073</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Rubbers/MANTRA/mantra2.jpg</url>
+                <title>MANTRA M TABLE TENNIS RUBBER</title>
+                <filesize>47281</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Rubbers/MANTRA/mantra3.jpg</url>
+                <title>MANTRA S TABLE TENNIS RUBBER</title>
+                <filesize>48211</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Rubbers/OTHER/other1.jpg</url>
+                <title>BOOST TC TABLE TENNIS RUBBER</title>
+                <filesize>38279</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Rubbers/OTHER/other2.jpg</url>
+                <title>CARBO MC TABLE TENNIS RUBBER</title>
+                <filesize>37853</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Rubbers/OTHER/other3.jpg</url>
+                <title>DESTROYER TABLE TENNIS RUBBER</title>
+                <filesize>59680</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/user/Desktop/STIGA/Rubbers/OTHER/other4.jpg</url>
+                <title>MENDO TABLE TENNIS RUBBER</title>
+                <filesize>42428</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
